@@ -1,0 +1,25 @@
+html {
+	font-size:20px;	
+}
+
+body { margin: 0 20px; }
+
+h4, h5, h6 {
+	font-family: 'Averia Serif Libre', cursive;
+	font-size: 60px;
+}
+
+h4 {
+    
+    font-family: 'Anonymous Pro', monospace;
+	color: grey;
+}
+
+h6 {
+	text-align: right;
+	color: maroon;
+}
+
+p, ul {  
+    font-family: 'Cutive Mono', monospace;
+}
